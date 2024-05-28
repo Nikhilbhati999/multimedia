@@ -1,0 +1,14 @@
+.col{
+    width: 100%;
+    height: 40vh;
+    border: 1px solid black;
+    background-color: aqua;
+}
+.col2{
+    width: 100%;
+    height: 40vh;
+
+}
+#four .col-12 {
+    text-align: right;
+}
